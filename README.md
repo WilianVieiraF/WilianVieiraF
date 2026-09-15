@@ -1,9 +1,9 @@
 ### Olá!! Eu sou Wilian Vieira 🙂
 
 ### Sobre Mim:
- - 20 Anos;
+ - 21 Anos;
  - Curso Técnico de eletrotécnico completo;
- - Graduação Engenharia de Software (5/8).
+ - Graduação Engenharia de Software (6/8).
  
 Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.
 
